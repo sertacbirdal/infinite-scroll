@@ -1,5 +1,4 @@
 # Infinite Scroll
-
 _Automatically add next page_
 
 See [infinite-scroll.com](https://infinite-scroll.com) for complete docs and demos.
